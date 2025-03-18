@@ -16,8 +16,8 @@ Jupyterlite ist eine Webbrowser-basierte Instanz von JupyterLab, die Zugriff zu 
 ### Zugriff auf Notebooks über JupyerLite
 
 1. Klicken Sie auf den den "launch JupyterLite"-Button, um JupyterLite zu starten.
-2. JupyterLite wird das GitHub-Repository initialisieren und die Ordnerstruktur der Jupyter-Notebooks bereitsstellen.
-3. Nachdem die Instanz geladen ist, sehen Sie eine Liste von Dateien und Notebooks auf der linken Seite. Dort finden Sie die Ordner mit den jeweiligen Themenbereichen. Klicken Sie dann auf ein Notebook, um es zu öffnen.
+2. JupyterLite wird das GitHub-Repository initialisieren und die Ordnerstruktur der Jupyter-Notebooks bereitstellen.
+3. Nachdem die Instanz geladen wurde, sehen Sie eine Liste von Dateien und Notebooks auf der linken Seite. Dort finden Sie die Ordner mit den jeweiligen Themenbereichen. Klicken Sie dann auf ein Notebook, um es zu öffnen.
 
 ### Grundlegende Verwendung
 
