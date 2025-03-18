@@ -4,7 +4,7 @@
 
 In diesem Repository finden Sie Jupyter-Notebooks, die Sie im Rahmen dieser Veranstaltung bearbeiten sollen. Diese sind thematisch unterteilt und für die meisten Themen gibt es auch ein Anwendungs-Notebook. Hierbei werden die behandelten Themen auf ein praktisches Beispiel bezogen.
 
-Mit dem Link öffnet sich eine Instanz von JupyterLite, wodurch Sie die Notebooks in einer Browser-Version von JupyterHub bearbeiten können, ohne etwas installieren zu müssen. Beachten Sie dabei, dass Veränderungen gespeichert werden. Für die erste Verwendung des JupyterHubs und Python sollten Sie zuerst die Einführungsnotebooks bearbeiten.
+Mit der Verlinkung über das Logo oben öffnet sich eine Instanz von JupyterLite, wodurch Sie die Notebooks in einer Browser-Version von JupyterHub bearbeiten können, ohne etwas installieren zu müssen. Beachten Sie dabei, dass Veränderungen gespeichert werden. Für die erste Verwendung des JupyterHubs und Python sollten Sie zuerst die Einführungsnotebooks bearbeiten.
 
 ## Einführung in Jupyter-Notebooks mit JupyterLite
 
