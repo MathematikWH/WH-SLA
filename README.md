@@ -1,37 +1,26 @@
-# JupyterLite Demo
+# GitHub Repository zur Veranstaltung Statistik und Lineare Algebra (SLA)
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+In diesem Repository finden Sie Jupyter-Notebooks, die Sie im Rahmen dieser Veranstaltung bearbeiten sollen. Diese sind thematisch unterteilt und für die meisten Themen gibt es auch ein Anwendungs-Notebook. Hierbei werden die behandelten Themen auf ein praktisches Beispiel bezogen.
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Mit dem Link öffnet sich eine Instanz von JupyterLite, wodurch Sie die Notebooks in einer Browser-Version von JupyterHub bearbeiten können, ohne etwas installieren zu müssen. Beachten Sie dabei, dass Veränderungen gespeichert werden. Für die erste Verwendung des JupyterHubs und Python sollten Sie zuerst die Einführungsnotebooks bearbeiten.
 
-## ✨ Try it in your browser ✨
+## Einführung in Jupyter-Notebooks mit JupyterLite
 
-➡️ **https://jupyterlite.github.io/demo**
+### Was ist JupyterLite?
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+Jupyterlite ist eine Webbrowser-basierte Instanz von JupyterLab, die Zugriff zu JupyterHub-Modulen und Erweiterungen erlaubt. Es ermöglicht mehreren Benutzern den gleichzeitigen Zugriff auf Jupyter-Notebooks. Dabei handelt es sich um eine serverbasierte Plattform, die individuelle Jupyter-Serverinstanzen für jeden Benutzer bereitstellt.
+  
 
-## Requirements
+### Zugriff auf Notebooks über JupyerLite
 
-JupyterLite is being tested against modern web browsers:
+1. Klicken Sie auf den den "launch JupyterLite"-Button, um JupyterLite zu starten.
+2. JupyterLite wird das GitHub-Repository initialisieren und die Ordnerstruktur der Jupyter-Notebooks bereitsstellen.
+3. Nachdem die Instanz geladen ist, sehen Sie eine Liste von Dateien und Notebooks auf der linken Seite. Dort finden Sie die Ordner mit den jeweiligen Themenbereichen. Klicken Sie dann auf ein Notebook, um es zu öffnen.
 
-- Firefox 90+
-- Chromium 89+
+### Grundlegende Verwendung
 
-## Deploy your JupyterLite website on GitHub Pages
+1. **Zellen**: Jupyter-Notebooks bestehen aus Zellen. Jede Zelle kann entweder Code oder Text (Markdown) enthalten.
+2. Um den Inhalt einer Zelle auszuführen, drücken Sie `Shift + Enter` oder den ▶️-Button in der oberen Toolbar.
+3. Sie können den Zelltyp im Menü oben ändern. Für Code lassen Sie es auf "Code", für Text ändern Sie es in "Markdown".
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
-
-This template provides the Pyodide kernel (`jupyterlite-pyodide-kernel`), the JavaScript kernel (`jupyterlite-javascript-kernel`), and the p5 kernel (`jupyterlite-p5-kernel`), along with other
-optional utilities and extensions to make the JupyterLite experience more enjoyable. See the
-[`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
-
-For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
-
-
+In diesem [Video](https://www.youtube.com/watch?v=uFzrYiwnKEk&t=301s&ab_channel=elab2go-MobileEngineeringLab) ist eine kurze Einleitung wie man Jupyter-Notebooks verwendet. 
